@@ -9,9 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Champaign, IL</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,9 +24,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+My name is Ziheng Qi (祁子恒). I am a senior student pursuing B.S. in Computer Engineering at University of Illinois Urbana-Champaign. My interest lies at software engineering and its integration with AI and Machine Learning. I am advised by [Prof. Olgica Milenkovic](https://ece.illinois.edu/about/directory/faculty/milenkov) working on Machine Learning for Biology. I was also a research intern in U Lab, advised by [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/), where I worked on AI Agents. I am a recipient of the [Yunni and Maxine Pao Memorial Scholarship](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship) (Grainger School of Engineering) and the [John and Sheila Woythal Scholarship](https://ece.illinois.edu/academics/ugrad/scholarships-and-awards/scholarships/woythal) (ECE Department).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I enjoy playing [video games](https://en.wikipedia.org/wiki/Elden_Ring) and [music](https://www.corywongmusic.com/) in my free time. My hometown is [Nanjing](https://en.wikipedia.org/wiki/Nanjing), China.

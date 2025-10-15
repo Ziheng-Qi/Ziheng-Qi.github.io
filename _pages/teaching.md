@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Grader/Course Assistant Experience
 nav: true
-nav_order: 6
+nav_order: 4
 ---
+### **ECE 120: Introduction to Computing, UIUC**
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Fall 2023, Spring 2024
 
-Organize your courses by years, topics, or universities, however you like!
+Professor | Ujjal Kumar Bhowmik
+
+### **ECE 313: Probability with Engineering Applications, UIUC**
+
+Fall 2024, Spring 2025, Summer 2025, Fall 2025
+
+Professor | Olgica Milenkovic, Minh N Do

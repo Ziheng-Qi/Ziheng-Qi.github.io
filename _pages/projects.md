@@ -2,64 +2,55 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description:
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+<div class="publications">
+  {% assign sorted_projects = site.projects | sort: "importance" %}
+  
+  {% for project in sorted_projects %}
+  <div class="row">
+    <div class="col col-sm-2 abbr">
+      {% if project.category %}
+        <abbr class="badge rounded w-100">{{ project.category | upcase }}</abbr>
+      {% endif %}
+      {% if project.img %}
+        {% if project.img contains '://' %}
+          <img class="preview z-depth-1 rounded" src="{{ project.img }}">
+        {% else %}
+          {%
+            include figure.liquid
+            loading="eager"
+            path=project.img
+            sizes="200px"
+            class="preview z-depth-1 rounded"
+            zoomable=true
+            alt=project.title
+          %}
+        {% endif %}
+      {% endif %}
+    </div>
+
+    <div class="col-sm-8">
+      <div class="title">{{ project.title }}</div>
+      <div class="author">{{ project.institution }}</div>
+      <div class="periodical">{{ project.description }}</div>
+      <div class="periodical"><em>{{ project.tech }}</em></div>
+      
+      <div class="links">
+        {% if project.github %}
+          <a href="{{ project.github }}" class="btn btn-sm z-depth-0" role="button">GitHub</a>
+        {% endif %}
+        {% if project.demo %}
+          <a href="{{ project.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
+        {% endif %}
+        {% if project.paper %}
+          <a href="{{ project.paper }}" class="btn btn-sm z-depth-0" role="button">Paper</a>
+        {% endif %}
+      </div>
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
   {% endfor %}
-
-{% else %}
-
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
 </div>

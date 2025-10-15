@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First Blog Post
-date: 2025-10-15 12:00:00-0500
+date: 2024-10-15 08:00:00-0500
 description: Welcome to my personal website
 tags: personal
 categories: blog
@@ -20,11 +20,11 @@ This website is built using the al-folio theme, which is perfect for showcasing 
 ## What's Next?
 
 Stay tuned for more posts about:
+
 - My research projects
 - Tech tutorials
 - Personal reflections
 
 ---
 
-*Thanks for visiting!*
-
+_Thanks for visiting!_

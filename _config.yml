@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Ziheng
-middle_name: 
+middle_name:
 last_name: Qi
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
@@ -642,3 +642,4 @@ jsonresume:
   - languages
   - interests
   - references
+

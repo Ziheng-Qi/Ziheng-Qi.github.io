@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Thoughts on Suno AI
+title: Thoughts on Suno AI v5.0 and the Future of Music Creation
 date: 2025-10-14 10:00:00-0500
-description: My thoughts on Suno AI music generation
-tags: AI music
+description: Reflections on AI-generated music and what it means for artists and music lovers
+tags: AI music creativity
 categories: blog
 ---
 I was shocked by the recently released Suno AI v5.0 model. As a guitar enthusiast and music lover, I was blown away by the quality of music this generation of AI can produce—truly studio-level output.
@@ -44,4 +44,4 @@ I believe music will follow a similar trajectory. As AI makes pleasant, well-cra
 
 Rather than fearing AI, perhaps we should view it as a catalyst for artistic evolution. Just as photography didn't kill painting but rather redefined it, AI music generation won't kill music—it will reshape what it means to be a musician. The future might belong to those who can blend human creativity with AI capabilities, or those who dare to venture into artistic territories that machines cannot comprehend.
 
-As for me, I'll continue strumming my guitar, exploring sounds and emotions that feel uniquely human—even in an age of artificial intelligence.
+As for me? I'll continue strumming my guitar...

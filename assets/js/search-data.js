@@ -58,7 +58,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-unix-like-operating-system-kernel",
           title: 'Unix-like Operating System Kernel',
-          description: "Implemented a custom Linux kernel with virtual memory management, scheduling, and system calls",
+          description: "Implemented a custom Linux kernel with virtual memory management, process scheduling, system calls, file system, and device drivers.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_linux_os_kernel/";
             },},{

@@ -14,7 +14,7 @@ nav_order: 3
   <div class="row">
     <div class="col col-sm-2 abbr">
       {% if project.category %}
-        <abbr class="badge rounded w-100">{{ project.category | upcase }}</abbr>
+        <abbr class="badge rounded w-100">{{ project.category }}</abbr>
       {% endif %}
       {% if project.img %}
         {% if project.img contains '://' %}
@@ -27,6 +27,7 @@ nav_order: 3
             sizes="200px"
             class="preview z-depth-1 rounded"
             zoomable=true
+            avoid_scaling=true
             alt=project.title
           %}
         {% endif %}
@@ -37,7 +38,6 @@ nav_order: 3
       <div class="title">{{ project.title }}</div>
       <div class="author">{{ project.institution }}</div>
       <div class="periodical">{{ project.description }}</div>
-      <div class="periodical"><em>{{ project.tech }}</em></div>
       
       <div class="links">
         {% if project.github %}
@@ -48,6 +48,9 @@ nav_order: 3
         {% endif %}
         {% if project.paper %}
           <a href="{{ project.paper }}" class="btn btn-sm z-depth-0" role="button">Paper</a>
+        {% endif %}
+        {% if project.video %}
+          <a href="{{ project.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
         {% endif %}
       </div>
     </div>

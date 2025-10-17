@@ -37,11 +37,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-thoughts-on-suno-ai",
+        },{id: "post-thoughts-on-suno-ai-v5-0-and-the-future-of-music-creation",
         
-          title: "Thoughts on Suno AI",
+          title: "Thoughts on Suno AI v5.0 and the Future of Music Creation",
         
-        description: "My thoughts on Suno AI music generation",
+        description: "Reflections on AI-generated music and what it means for artists and music lovers",
         section: "Posts",
         handler: () => {
           

@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: zihengq2@illinois.edu   Champaign, IL, 61820</p>
+    <p>Taken at <a href="https://en.wikipedia.org/wiki/Houghton,_Michigan">Houghton, Michigan</a>. Credit to <a href="https://www.linkedin.com/in/crystal-dou/">Crystal Dou</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

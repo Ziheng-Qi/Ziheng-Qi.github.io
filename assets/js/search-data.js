@@ -64,6 +64,11 @@ ninja.data = [{
           description: "Implemented a custom Linux kernel with virtual memory management, process scheduling, system calls, file system, and device drivers.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_linux_os_kernel/";
+            },},{id: "projects-uiuc-treasure-hunt",
+          title: 'UIUC Treasure Hunt',
+          description: "Developed FPGA-based game &quot;UIUC Treasure Hunt&quot; using SystemVerilog. Used dual-port BRAM and AXI4-Lite for 640×480 HDMI graphics at 60FPS.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_fpga_game/";
             },},{
         id: 'social-email',
         title: 'email',

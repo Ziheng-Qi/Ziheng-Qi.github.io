@@ -41,16 +41,24 @@ nav_order: 3
       
       <div class="links">
         {% if project.github %}
-          <a href="{{ project.github }}" class="btn btn-sm z-depth-0" role="button">GitHub</a>
+          <a href="{{ project.github }}" class="btn btn-sm z-depth-0" role="button">
+            <i class="fa-brands fa-github"></i> GitHub
+          </a>
         {% endif %}
         {% if project.demo %}
-          <a href="{{ project.demo }}" class="btn btn-sm z-depth-0" role="button">Demo</a>
+          <a href="{{ project.demo }}" class="btn btn-sm z-depth-0" role="button">
+            <i class="fa-solid fa-globe"></i> Demo
+          </a>
         {% endif %}
         {% if project.paper %}
-          <a href="{{ project.paper }}" class="btn btn-sm z-depth-0" role="button">Paper</a>
+          <a href="{{ project.paper }}" class="btn btn-sm z-depth-0" role="button">
+            <i class="fa-solid fa-file-pdf"></i> Paper
+          </a>
         {% endif %}
         {% if project.video %}
-          <a href="{{ project.video }}" class="btn btn-sm z-depth-0" role="button">Video</a>
+          <a href="{{ project.video }}" class="btn btn-sm z-depth-0" role="button">
+            <i class="fa-solid fa-video"></i> Video
+          </a>
         {% endif %}
       </div>
     </div>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Suno AI v5.0 and the Future of Music Creation
+title: Thoughts on Suno AI v5 and the Future of Music Creation
 date: 2025-10-14 10:00:00-0500
 description: Reflections on AI-generated music and what it means for artists and music lovers
 tags: AI music creativity

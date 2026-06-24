@@ -55,6 +55,11 @@ nav_order: 3
             <i class="fa-solid fa-file-pdf"></i> Paper
           </a>
         {% endif %}
+        {% if project.slides %}
+          <a href="{{ project.slides }}" class="btn btn-sm z-depth-0" role="button">
+            <i class="fa-solid fa-file-powerpoint"></i> Slides
+          </a>
+        {% endif %}
         {% if project.video %}
           <a href="{{ project.video }}" class="btn btn-sm z-depth-0" role="button">
             <i class="fa-solid fa-video"></i> Video

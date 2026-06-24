@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.S. ECE @ UIUC
+subtitle: M.S. CSE @ Harvard
 
 profile:
   align: right
@@ -24,6 +24,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-My name is Ziheng Qi (祁子恒). I am a senior student at the University of Illinois Urbana-Champaign majoring in Computer Engineering. I am passionate about software engineering and its integration with AI and Machine Learning. I will join Microsoft as a software engineer intern in Summer 2026. During my undergrad, I am advised by [Prof. Olgica Milenkovic](https://ece.illinois.edu/about/directory/faculty/milenkov), focusing on Machine Learning for Biology. I was a research intern at [U Lab](https://ulab-uiuc.github.io), advised by [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/), where I worked on AI Agent safety. I am a recipient of the [Yunni and Maxine Pao Memorial Scholarship](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship) (Grainger School of Engineering) and the [John and Sheila Woythal Scholarship](https://ece.illinois.edu/academics/ugrad/scholarships-and-awards/scholarships/woythal) (ECE Department) for Academic Year 2025-26.
+My name is Ziheng Qi (祁子恒). I am a first-year master's student in Computational Science and Engineering at Harvard University. I am passionate about AI/ML applications, especially large language models and agents.
 
-I enjoy playing 🎮 [video games](https://en.wikipedia.org/wiki/Elden_Ring) and 🎵 [music](https://www.corywongmusic.com/) in my free time. They are my life-long hobbies. My hometown is [Nanjing](https://en.wikipedia.org/wiki/Nanjing), China.
+Previously, I graduated with Highest Honor from the University of Illinois Urbana-Champaign with a B.S. in Computer Engineering. During my undergraduate studies, I worked with [Prof. Olgica Milenkovic](https://ece.illinois.edu/about/directory/faculty/milenkov) on machine learning for biology. I was also a research intern at [U Lab](https://ulab-uiuc.github.io/#/about), advised by [Prof. Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/), where I worked on agent safety. I received the [Yunni and Maxine Pao Memorial Scholarship](https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/yunni-and-maxine-pao-memorial-fellowship), [A. R. "Buck" Knight Scholarship](https://ece.illinois.edu/academics/awards/banquet/2026), and [John and Sheila Woythal Scholarship](https://ece.illinois.edu/academics/ugrad/scholarships-and-awards/scholarships/woythal).
+
+In summer 2026, I worked as a Software Engineering Intern at Microsoft in Redmond, WA. I was part of the Azure Storage team, where I worked on the Azure Agentic Data Lake Gateway. I am currently seeking new job opportunities and would be happy to connect!
+
+Outside of work, you'll find me playing 🎮 [video games](https://en.wikipedia.org/wiki/Elden_Ring) and 🎵 [guitar](https://www.corywongmusic.com/). I also enjoy collecting [1:64 scale diecast cars](https://www.tarmacworks.com). My hometown is [Nanjing](https://en.wikipedia.org/wiki/Nanjing), China.

@@ -37,9 +37,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-thoughts-on-suno-ai-v5-0-and-the-future-of-music-creation",
+        },{id: "post-vibeos-and-the-speed-of-ai",
         
-          title: "Thoughts on Suno AI v5.0 and the Future of Music Creation",
+          title: "vibeOS and the Speed of AI",
+        
+        description: "Reflection on vibeOS",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/vibeos-and-the-speed-of-ai/";
+          
+        },
+      },{id: "post-thoughts-on-suno-ai-v5-and-the-future-of-music-creation",
+        
+          title: "Thoughts on Suno AI v5 and the Future of Music Creation",
         
         description: "Reflections on AI-generated music and what it means for artists and music lovers",
         section: "Posts",
@@ -56,9 +67,6 @@ ninja.data = [{
             },},{id: "news-hello-world",
           title: 'Hello World! ✨',
           description: "",
-          section: "News",},{id: "news-i-received-the-provisional-admission-to-uiuc-ece-ms-phd-program-fully-funded",
-          title: '🎉 I received the provisional admission to UIUC ECE MS/PhD Program! (Fully Funded)...',
-          description: "",
           section: "News",},{id: "news-i-will-be-joining-microsoft-as-a-software-engineer-intern-this-summer",
           title: '💼 I will be joining Microsoft as a Software Engineer Intern this summer!...',
           description: "",
@@ -72,6 +80,11 @@ ninja.data = [{
           description: "Developed FPGA-based game &quot;UIUC Treasure Hunt&quot; using SystemVerilog. Used dual-port BRAM and AXI4-Lite for 640×480 HDMI graphics at 60FPS.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_fpga_game/";
+            },},{id: "projects-invertible-ant-weight-battlebot",
+          title: 'Invertible Ant-Weight BattleBot',
+          description: "Designed and built an invertible ant-weight battlebot for senior design, focusing on compact mechanical packaging, drivetrain integration, and reliable operation after flips.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_senior_design_battlebot/";
             },},{
         id: 'social-email',
         title: 'email',

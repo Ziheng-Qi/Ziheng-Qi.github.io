@@ -6,5 +6,5 @@ img: assets/img/battlebot_cover.jpg
 importance: 3
 category: Robotics
 institution: University of Illinois Urbana-Champaign | 2026.1 - 2026.5
-slides: assets/pptx/invertible_ant_weight_battlebot_slides.pptx
+slides: /assets/pptx/invertible_ant_weight_battlebot_slides.pptx
 ---

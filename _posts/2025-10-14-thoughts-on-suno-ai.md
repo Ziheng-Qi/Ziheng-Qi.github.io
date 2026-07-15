@@ -6,7 +6,7 @@ description: Reflections on AI-generated music and what it means for artists and
 tags: AI music creativity
 categories: blog
 ---
-I was shocked by the recently released Suno AI v5.0 model. As a guitar enthusiast and music lover, I was blown away by the quality of music this generation of AI can produce—truly studio-level output.
+I was shocked by the recently released Suno AI v5.0 model. As a guitar enthusiast and indie music lover, I was blown away by the quality of music this generation of AI can produce.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -17,7 +17,7 @@ I was shocked by the recently released Suno AI v5.0 model. As a guitar enthusias
     Suno AI v5.0: A new era in music generation
 </div>
 
-Just a year ago, artists were loudly proclaiming that AI could never replace art or music. In just one year, those voices have gone quiet. It's a humbling reminder of how rapidly technology evolves.
+Just a year ago, artists were loudly proclaiming that AI could never replace art or music. In just one year, those voices have gone quiet. 
 
 ## The Silver Lining
 
@@ -38,10 +38,10 @@ When photography was invented centuries ago, painters felt similarly threatened.
     Picasso's abstract art: An artistic response to photography that explored new dimensions of expression
 </div>
 
-I believe music will follow a similar trajectory. As AI makes pleasant, well-crafted music accessible to everyone, musicians will likely move toward purer, more experimental forms of expression. The democratization of music creation might push professional musicians to explore territories that AI cannot easily replicate—the deeply personal, the avant-garde, the emotionally raw.
+I believe music will follow a similar trajectory. Professional musicians will likely move toward purer, more experimental forms of expression. The democratization of music creation might push them to explore territories that AI cannot easily replicate.
 
 ## Final Thoughts
 
-Rather than fearing AI, perhaps we should view it as a catalyst for artistic evolution. Just as photography didn't kill painting but rather redefined it, AI music generation won't kill music—it will reshape what it means to be a musician. The future might belong to those who can blend human creativity with AI capabilities, or those who dare to venture into artistic territories that machines cannot comprehend.
+Rather than fearing AI, perhaps we should view it as a catalyst for artistic evolution. Just as photography didn't kill painting but rather redefined it, AI music generation won't kill music either. The future might belong to those who can blend human creativity with AI capabilities, or those who dare to venture into artistic territories that machines cannot comprehend.
 
 As for me? I'll continue strumming my guitar...

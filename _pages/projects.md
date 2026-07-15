@@ -14,7 +14,7 @@ nav_order: 3
   <div class="row">
     <div class="col col-sm-2 abbr">
       {% if project.category %}
-        <abbr class="badge rounded w-100">{{ project.category }}</abbr>
+        <abbr class="badge rounded w-100 project-badge">{{ project.category }}</abbr>
       {% endif %}
       {% if project.img %}
         {% if project.img contains '://' %}

@@ -30,7 +30,6 @@ Two years ago, when I was grinding ECE391 in Champaign's brutal winter, operatin
     A VibeOS browser screenshot from the <a href="https://github.com/kaansenol5/VibeOS">project repository</a>
 </div>
 
-VMaybe the point is not whether it is a good OS right now. Maybe the point is that an OS can start to become less like a fixed machine and more like a generated world. Maybe one day people will be kept like factory-farmed chickens, each lying inside a coffin-like pod, tubes feeding the mouth and nose, sensors pressed against the forehead, while AI hallucinates a grand, colorful, dramatic life directly into the mind. Software no longer as a tool we operate, but as an environment that operates on us.
-
+Maybe the point is not whether it is a good OS right now. Maybe the point is that an OS can start to become less like a fixed machine and more like a generated world. Maybe one day people will be kept like factory-farmed chickens, each lying inside a coffin-like pod, tubes feeding the mouth and nose, sensors pressed against the forehead, while AI hallucinates a grand, colorful, dramatic life directly into the mind. Software no longer as a tool we operate, but as an environment that operates on us.
 
 
